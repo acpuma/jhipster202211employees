@@ -1,0 +1,17 @@
+
+entity Employee {
+    FirstName String,
+    LastName String,
+    Salary Double,
+    BirthDate Instant,
+    Active Boolean
+}
+
+entity Department {
+    DepartmentName String
+}
+
+relationship OneToMany {
+    Department to Employee{department}
+}
+

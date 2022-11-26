@@ -50,6 +50,9 @@ public class CacheConfiguration {
             createCache(cm, com.employees.domain.User.class.getName() + ".authorities");
             createCache(cm, com.employees.domain.PersistentToken.class.getName());
             createCache(cm, com.employees.domain.User.class.getName() + ".persistentTokens");
+            createCache(cm, com.employees.domain.Employee.class.getName());
+            createCache(cm, com.employees.domain.Department.class.getName());
+            createCache(cm, com.employees.domain.Department.class.getName() + ".employees");
             // jhipster-needle-ehcache-add-entry
         };
     }
