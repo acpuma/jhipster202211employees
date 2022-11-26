@@ -1,0 +1,11 @@
+id;first_name;last_name;salary;birth_date;active
+1;Lola;Rogahn;65397;2022-11-26T04:46:29;false
+2;Ralph;Carter;75660;2022-11-26T05:16:58;false
+3;Michel;Goyette;63262;2022-11-26T11:01:18;false
+4;Destin;Raynor;45464;2022-11-26T16:00:19;true
+5;Betsy;Langosh;32002;2022-11-26T11:02:28;false
+6;Carolyn;Nitzsche;41321;2022-11-26T06:01:38;false
+7;Nicholas;Ebert;97958;2022-11-25T23:33:53;false
+8;Adan;Goodwin;58937;2022-11-26T13:14:34;false
+9;Augustine;Kshlerin;90233;2022-11-26T02:30:51;true
+10;Macy;Mertz;25437;2022-11-25T23:24:45;false
